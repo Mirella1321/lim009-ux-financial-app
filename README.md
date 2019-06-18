@@ -105,27 +105,7 @@ Con la información hallada, se procedió a realizar el cambio de los User Perso
 
 Se continuo con el Customer Journey Map
 
-
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-En el reto del marketplace te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
-
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
-
-### 2) Prototipo de alta fidelidad
+![costumer journey map](https://user-images.githubusercontent.com/47748876/59716523-bf9b4480-91db-11e9-8718-a80232a60535.png)
 
 
 
